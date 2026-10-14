@@ -29,12 +29,7 @@ It is a menu-driven program that uses object-oriented programming concepts. Acco
 
 The CSV files are created automatically when required by the program.
 
-## How to Run
-1. Make sure Python is installed on your computer.
-2. Download or clone this repository.
-3. Open the project folder in VS Code or another Python editor.
-4. Run the `bank_management.py` file.
-5. Choose an option from the menu and follow the instructions.
+
 
 ## Purpose
 The main purpose of this project is to practise Python programming, especially object-oriented programming, file handling, and exception handling, by building a basic banking application.
