@@ -22,12 +22,15 @@ It is a menu-driven program that uses object-oriented programming concepts. Acco
 - **File Handling:** CSV files are used to store account details and transaction records.
 - **Exception Handling:** Used to handle invalid amounts and file errors.
 
-## Files Used
+## Files in the Project
 - `bank_management.py` – Contains the main Python code.
 - `accounts.csv` – Stores account numbers, account holder names, and balances.
 - `transactions.csv` – Stores transaction details, including dates, amounts, and balances.
+- Output_01.png,Output_02.Png,Output_03.Png,Output_04.Png – screenshot showing the program running.
+- README.md – provides information about the project.
 
 The CSV files are created automatically when required by the program.
+Files in the Project
 
 
 
@@ -35,3 +38,6 @@ The CSV files are created automatically when required by the program.
 The main purpose of this project is to practise Python programming, especially object-oriented programming, file handling, and exception handling, by building a basic banking application.
 
 **Note:** This project is created for learning purposes and is not intended for real banking transactions.
+
+Author: Munaza
+Project: Bank Account Management System using Python
