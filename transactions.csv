@@ -1,0 +1,4 @@
+Date and Time,Account Number,Transaction Type,Amount,Balance After Transaction
+2026-10-14 17:23:45,1001,Initial Deposit,5000.00,5000.00
+2026-10-14 17:24:29,1001,Deposit,1000.00,6000.00
+2026-10-14 17:24:58,1001,Withdrawal,2000.00,4000.00
