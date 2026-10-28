@@ -40,4 +40,5 @@ The main purpose of this project is to practise Python programming, especially o
 **Note:** This project is created for learning purposes and is not intended for real banking transactions.
 
 Author: Munaza
+
 Project: Bank Account Management System using Python
